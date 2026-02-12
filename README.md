@@ -3,11 +3,11 @@
 A minimal macOS menu bar utility to control an EdgeLight-style overlay (brightness, color temperature, and display targeting).
 Designed primarily for Intel Macs and older macOS setups that don’t support the newer EdgeLight experience available on macOS Tahoe 26.2. <br><br>
 * `EdgeLightBar-Preview`
-* <details>
-  <summary>Click to view</summary>
-  <img src="https://github.com/user-attachments/assets/33109330-19d0-4060-aa7e-77815f66d94a" alt="EdgeLightBar-Preview">
-</details>
+<div align=center 
 
+![edlightbar](https://github.com/user-attachments/assets/0ecaa570-8295-4035-b8a2-c5ef180a684c)
+<div align=left 
+  
 ## Why EdgeLightBar?
 Some Macs (especially Intel models and older macOS versions) don’t receive newer system UI features.
 EdgeLightBar provides a simple, lightweight alternative focused on fast access from the menu bar.
